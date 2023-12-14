@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Oliver Timko
 ---
 My name is Oliver Timko.
