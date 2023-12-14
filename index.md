@@ -1,5 +1,4 @@
 ---
 title: Welcome to my blog
 ---
-
-testing
+My name is Oliver Timko.
