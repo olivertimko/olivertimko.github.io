@@ -10,3 +10,4 @@ external_link: "https://tryhackme.com/p/AkOs49"
 
   gtag('config', 'G-1EGVVR8TTW');
 </script>
+[Visit My Website]({{ page.external_link }})
