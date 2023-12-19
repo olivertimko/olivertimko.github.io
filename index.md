@@ -1,5 +1,6 @@
 ---
 title: Oliver Timko
+external_link: "https://tryhackme.com/p/AkOs49"
 ---
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1EGVVR8TTW"></script>
 <script>
